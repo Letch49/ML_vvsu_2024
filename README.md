@@ -6,5 +6,5 @@
 
 [git](https://git-scm.com/downloads) - публикация в репо
 
-### Для оффлайн работы
+### Для онлайн работы
 [Colab](https://colab.research.google.com/) - работа с jupter-notebooks
