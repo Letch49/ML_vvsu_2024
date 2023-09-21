@@ -8,3 +8,8 @@
 
 ### Для онлайн работы
 [Colab](https://colab.research.google.com/) - работа с jupter-notebooks
+
+## Лекции
+Папка с лекциями [https://disk.yandex.ru/d/FrLTsBEUI44H9g](https://disk.yandex.ru/d/FrLTsBEUI44H9g)
+
+## Дополнительные материалы
