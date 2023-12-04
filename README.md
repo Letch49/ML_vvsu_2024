@@ -13,3 +13,8 @@
 Папка с лекциями [https://disk.yandex.ru/d/FrLTsBEUI44H9g](https://disk.yandex.ru/d/FrLTsBEUI44H9g)
 
 ## Дополнительные материалы
+[Про алгоритмы классификации](https://tproger.ru/translations/scikit-learn-in-python)
+
+[Про метрики качества классификации](https://webiomed.ru/blog/osnovnye-metriki-zadach-klassifikatsii-v-mashinnom-obuchenii/)
+
+
